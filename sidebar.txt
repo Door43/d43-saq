@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[saq:home|Door43 (saq)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-saq|d43-saq repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-saq/archive/master.zip|d43-saq.zip]]
+
+**Recent Changes**
+{{changes>ns = saq}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/saq|Ethnologue data]]
+
